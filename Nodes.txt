@@ -1,0 +1,4 @@
+"scripts": {
+    "start": "nodemon index.js" 
+     /* It makes sure we our app using nodemon and nodemon keeps making changes as we save our file .*/
+  },
